@@ -20,7 +20,7 @@ class Solution {
             high=mid-1;
         }
     }
-    return low;
+    return -1;
 }
         
         
